@@ -116,8 +116,10 @@ We evaluate a set of Transformer models chosen to reflect different trade-offs b
 
 ---
 
-## Author
-**Alisha Mehta** 
-**Jack T. Keefer** 
-**Dr. Beverly Abadines Quon** 
-Department of Electrical and Computer Engineering
+**Authors**
+- Alisha Mehta  
+- Jack T. Keefer  
+- Dr. Beverly Abadines Quon  
+
+**Affiliation**
+- Department of Electrical and Computer Engineering
