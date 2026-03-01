@@ -1,5 +1,4 @@
-# SDP-2025-
-# Adaptive Profiling and Optimization of Transformer Models for Fake News Detection
+# SDP-2025- Adaptive Profiling and Optimization of Transformer Models for Fake News Detection
 
 ## Overview
 This project investigates the performance characteristics of Transformer-based models for fake news detection on the **LIAR dataset**, with a focus on **operator-level profiling** and **GPU-accelerated inference**. While many misinformation detection systems rely on CPU-based or lightly optimized models, such approaches struggle to meet real-time latency requirements.
